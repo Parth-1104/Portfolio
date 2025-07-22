@@ -19,7 +19,7 @@ const Navbar = () => {
       </a>
 
       <div className="hidden md:flex items-center gap-6 ml-7">
-        {[{label: 'About Me', href: '#about-me'}, {label: 'Portfolio', href: '#projects'}, {label: 'Experience', href: '#'}].map((item) => (
+        {[{label: 'About Me', href: '#about-me'}, {label: 'Portfolio', href: '#projects'}].map((item) => (
           <a key={item.label} href={item.href} className="relative overflow-hidden h-6 group">
             <span className="block group-hover:-translate-y-full transition-transform duration-300">{item.label}</span>
             <span className="block absolute top-full left-0 group-hover:translate-y-[-100%] transition-transform duration-300">
@@ -56,7 +56,7 @@ const Navbar = () => {
       {/* Mobile Menu */}
       {isOpen && (
         <div className="absolute top-20 left-0 bg-[#E3E3E3] w-full flex flex-col items-center gap-4 py-6 z-100 text-black text-base rounded-lg shadow-lg">
-          {[{label: 'About Me', href: '#about-me'}, {label: 'Portfolio', href: '#projects'}, {label: 'Experience', href: '#'}].map((item) => (
+          {[{label: 'About Me', href: '#about-me'}, {label: 'Portfolio', href: '#projects'}].map((item) => (
             <a key={item.label} href={item.href} className="hover:text-indigo-500">
               {item.label}
             </a>

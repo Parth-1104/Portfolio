@@ -10,7 +10,7 @@ const projects = [
     description:
       "Smart retail system with real-time navigation and AI chatbot, reducing item search time and boosting basket value.",
     image: assets.pic3,
-    year: "2024",
+    year: "July 2025",
     tech: ["React.js", "Node.js", "MongoDB", "Dijkstra’s Algorithm", "OpenAI API"],
     status: "Live",
     website: "https://wallmart-gray.vercel.app",
@@ -21,7 +21,7 @@ const projects = [
     description:
       "AI tool that filters out non-doubt messages in virtual classes, enabling distraction-free teaching.",
     image: assets.pic5,
-    year: "2025",
+    year: "July 2025",
     tech: ["Gemini API", "Transformers", "Fine-tuned AI", "JavaScript"],
     status: "Live",
     website: "https://edtechchatapp.web.app",
@@ -32,7 +32,7 @@ const projects = [
     description:
       "AI-driven health portal with secure records, video consultations, and smart diagnostics.",
     image: assets.pic4,
-    year: "2024",
+    year: "April 2025",
     tech: ["React.js", "Node.js", "MongoDB", "Express.js", "OpenAI API", "JWT"],
     status: "Live",
     website: "https://healthsphere-frontend.onrender.com",
@@ -43,7 +43,7 @@ const projects = [
     description:
       "SaaS task manager with real-time sync, team roles, analytics, and encrypted document sharing.",
     image: assets.pic6,
-    year: "2024",
+    year: "Jan 2025",
     tech: ["React.js", "Node.js", "MongoDB", "Express.js", "JWT", "Chart.js", "VideoSDK"],
     status: "Live",
     website: "https://syncup-microsoft-frontend.onrender.com/",
@@ -54,7 +54,7 @@ const projects = [
     "title": "Verse – Full-Stack Blogging Platform",
     "description": "Built an SEO-friendly blog with server-side rendering, markdown support, image optimization, and secure auth. Styled with Tailwind and powered by Prisma ORM and PostgreSQL.",
     "image": assets.pic7,
-    "year": "2025",
+    "year": "June 2025",
     "tech": ["Next.js", "React.js", "PostgreSQL", "Tailwind CSS", "NextAuth", "Prisma ORM"],
     "status": "Live",
     "website": "https://verse-blogging-website.vercel.app/login",

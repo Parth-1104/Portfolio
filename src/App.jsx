@@ -71,7 +71,7 @@ const App = () => {
           
         </motion.div>
 
-        <div className="absolute top-[93vh]  h-[7vh] w-full sm:h-[1vh] sm:w-[15vw] lg:h-[3vw] lg:w-[10vw] lg:left-[90vw] bg-[#E3E3E3]">
+        <div className="absolute top-[93vh]  h-[7vh] w-full sm:h-[1vh] sm:w-[15vw] lg:h-[3vw] lg:w-[12vw] lg:left-[88vw] bg-[#E3E3E3]">
 </div>
 
 
